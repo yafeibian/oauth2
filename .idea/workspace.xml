@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d3ca5764-3c86-484a-b7b1-d1c243156ea6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/maven/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\maven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1b54W7yeAvy7YTnwRRIcJ815wSX" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/oauth2-server" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.yafei.oauth2.test" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\ideaWorkspace\oauth2\oauth2-server" />
+      <recent name="D:\ideaWorkspace\oauth2\oauth2-server\src\test\java" />
+      <recent name="D:\ideaWorkspace\oauth2\src\test\java" />
+      <recent name="D:\ideaWorkspace\oauth2\oauth2-server\src\main\resources" />
+      <recent name="D:\ideaWorkspace\oauth2\oauth2-server\src\main\java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.TbUserServiceTests.testSelectAll">
+    <configuration name="TbPermissionServiceTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="oauth2-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yafei.oauth2.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.yafei.oauth2.test" />
+      <option name="MAIN_CLASS_NAME" value="com.yafei.oauth2.test.TbPermissionServiceTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TbPermissionServiceTests.testAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="oauth2-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yafei.oauth2.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.yafei.oauth2.test" />
+      <option name="MAIN_CLASS_NAME" value="com.yafei.oauth2.test.TbPermissionServiceTests" />
+      <option name="METHOD_NAME" value="testAll" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TbPermissionServiceTests.testSelectByUserId" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="oauth2-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yafei.oauth2.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.yafei.oauth2.test" />
+      <option name="MAIN_CLASS_NAME" value="com.yafei.oauth2.test.TbPermissionServiceTests" />
+      <option name="METHOD_NAME" value="testSelectByUserId" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TbUserServiceTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="oauth2-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yafei.oauth2.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.yafei.oauth2.test" />
+      <option name="MAIN_CLASS_NAME" value="com.yafei.oauth2.test.TbUserServiceTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TbUserServiceTests.testSelectAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="oauth2-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yafei.oauth2.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.yafei.oauth2.test" />
+      <option name="MAIN_CLASS_NAME" value="com.yafei.oauth2.test.TbUserServiceTests" />
+      <option name="METHOD_NAME" value="testSelectAll" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OAuth2ServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="oauth2-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yafei.oauth2.OAuth2ServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TbUserServiceTests.testSelectAll" />
+        <item itemvalue="JUnit.TbPermissionServiceTests.testSelectByUserId" />
+        <item itemvalue="JUnit.TbPermissionServiceTests.testAll" />
+        <item itemvalue="JUnit.TbPermissionServiceTests" />
+        <item itemvalue="JUnit.TbUserServiceTests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d3ca5764-3c86-484a-b7b1-d1c243156ea6" name="Default Changelist" comment="" />
+      <created>1587908649986</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587908649986</updated>
+      <workItem from="1587908654517" duration="1938000" />
+      <workItem from="1587910630032" duration="5601000" />
+      <workItem from="1588157466720" duration="1686000" />
+      <workItem from="1588342235204" duration="279000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="42" key="#Project_Structure" timestamp="1587913976233">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="233" y="42" key="#Project_Structure/0.0.1280.760@0.0.1280.760" timestamp="1587913976233" />
+    <state x="96" y="38" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587910854462">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="96" y="38" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.760@0.0.1280.760" timestamp="1587910854462" />
+    <state x="446" y="89" key="#com.intellij.ide.util.MemberChooser" timestamp="1587914898407">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="446" y="89" key="#com.intellij.ide.util.MemberChooser/0.0.1280.760@0.0.1280.760" timestamp="1587914898407" />
+    <state x="308" y="308" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1587912137960">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="308" y="308" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1280.760@0.0.1280.760" timestamp="1587912137960" />
+    <state x="429" y="268" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1587912141203">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="429" y="268" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1280.760@0.0.1280.760" timestamp="1587912141203" />
+    <state x="422" y="139" key="FileChooserDialogImpl" timestamp="1587908684797">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="422" y="139" key="FileChooserDialogImpl/0.0.1280.760@0.0.1280.760" timestamp="1587908684797" />
+    <state width="1238" height="330" key="GridCell.Tab.0.bottom" timestamp="1588342365234">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1238" height="330" key="GridCell.Tab.0.bottom/0.0.1280.760@0.0.1280.760" timestamp="1588342365234" />
+    <state width="1238" height="330" key="GridCell.Tab.0.center" timestamp="1588342365234">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1238" height="330" key="GridCell.Tab.0.center/0.0.1280.760@0.0.1280.760" timestamp="1588342365234" />
+    <state width="1238" height="330" key="GridCell.Tab.0.left" timestamp="1588342365232">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1238" height="330" key="GridCell.Tab.0.left/0.0.1280.760@0.0.1280.760" timestamp="1588342365232" />
+    <state width="1238" height="330" key="GridCell.Tab.0.right" timestamp="1588342365234">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1238" height="330" key="GridCell.Tab.0.right/0.0.1280.760@0.0.1280.760" timestamp="1588342365234" />
+    <state width="1238" height="131" key="GridCell.Tab.1.bottom" timestamp="1587916249518">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1238" height="131" key="GridCell.Tab.1.bottom/0.0.1280.760@0.0.1280.760" timestamp="1587916249518" />
+    <state width="1238" height="131" key="GridCell.Tab.1.center" timestamp="1587916249517">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1238" height="131" key="GridCell.Tab.1.center/0.0.1280.760@0.0.1280.760" timestamp="1587916249517" />
+    <state width="1238" height="131" key="GridCell.Tab.1.left" timestamp="1587916249517">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1238" height="131" key="GridCell.Tab.1.left/0.0.1280.760@0.0.1280.760" timestamp="1587916249517" />
+    <state width="1238" height="131" key="GridCell.Tab.1.right" timestamp="1587916249517">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1238" height="131" key="GridCell.Tab.1.right/0.0.1280.760@0.0.1280.760" timestamp="1587916249517" />
+    <state width="1238" height="131" key="GridCell.Tab.2.bottom" timestamp="1587916249518">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1238" height="131" key="GridCell.Tab.2.bottom/0.0.1280.760@0.0.1280.760" timestamp="1587916249518" />
+    <state width="1238" height="131" key="GridCell.Tab.2.center" timestamp="1587916249518">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1238" height="131" key="GridCell.Tab.2.center/0.0.1280.760@0.0.1280.760" timestamp="1587916249518" />
+    <state width="1238" height="131" key="GridCell.Tab.2.left" timestamp="1587916249518">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1238" height="131" key="GridCell.Tab.2.left/0.0.1280.760@0.0.1280.760" timestamp="1587916249518" />
+    <state width="1238" height="131" key="GridCell.Tab.2.right" timestamp="1587916249518">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1238" height="131" key="GridCell.Tab.2.right/0.0.1280.760@0.0.1280.760" timestamp="1587916249518" />
+    <state x="144" y="0" key="SettingsEditor" timestamp="1587910800489">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="144" y="0" key="SettingsEditor/0.0.1280.760@0.0.1280.760" timestamp="1587910800489" />
+    <state x="336" y="208" key="com.intellij.ide.util.TipDialog" timestamp="1588342241426">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="336" y="208" key="com.intellij.ide.util.TipDialog/0.0.1280.760@0.0.1280.760" timestamp="1588342241426" />
+    <state x="263" y="0" width="752" height="760" key="find.popup" timestamp="1587910136915">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="263" y="0" width="752" height="760" key="find.popup/0.0.1280.760@0.0.1280.760" timestamp="1587910136915" />
+    <state x="6" y="84" key="new project wizard" timestamp="1587909125760">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="6" y="84" key="new project wizard/0.0.1280.760@0.0.1280.760" timestamp="1587909125760" />
+    <state x="317" y="374" width="670" height="676" key="search.everywhere.popup" timestamp="1588342511181">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="317" y="374" width="670" height="676" key="search.everywhere.popup/0.0.1280.760@0.0.1280.760" timestamp="1588342511181" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/oauth2-server/src/main/java/com/yafei/oauth2/server/config/service/UserDetailsServiceImpl.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
