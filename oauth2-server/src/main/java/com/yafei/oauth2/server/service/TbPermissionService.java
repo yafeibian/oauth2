@@ -7,6 +7,4 @@ import java.util.List;
 public interface TbPermissionService {
     List<TbPermission> selectByUserId(Long userId) ;
 
-    List<TbPermission> ll();
-
 }

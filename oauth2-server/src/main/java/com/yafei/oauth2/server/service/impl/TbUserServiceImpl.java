@@ -22,9 +22,5 @@ public class TbUserServiceImpl implements TbUserService {
         example.createCriteria().andEqualTo("username", username);
         return tbUserMapper.selectOneByExample(example);
     }
-    @Override
-    public List<TbUser> selectAa() {
-        return tbUserMapper.selectAa();
-    }
 
 }

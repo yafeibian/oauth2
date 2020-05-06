@@ -1,1 +1,4 @@
 /.idea/
+/oauth2-server/target/
+/.idea/
+/oauth2-resource/target/

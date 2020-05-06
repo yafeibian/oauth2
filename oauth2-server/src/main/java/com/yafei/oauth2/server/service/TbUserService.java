@@ -10,7 +10,4 @@ public interface TbUserService {
         return null;
     }
 
-    default List<TbUser> selectAa() {
-        return null;
-    }
 }
